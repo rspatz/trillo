@@ -442,10 +442,5 @@ li {
     border: 3px solid #fff; }
     .recommend__photo:not(:last-child) {
       margin-right: -1.5rem; }
-    @media only screen and (max-width: 31.25em) {
-      .recommend__photo {
-        height: 2rem;
-        width: 2rem;
-        flex-direction: column; } }
 
 /*# sourceMappingURL=style.css.map */
