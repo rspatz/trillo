@@ -444,7 +444,8 @@ li {
       margin-right: -1.5rem; }
     @media only screen and (max-width: 31.25em) {
       .recommend__photo {
-        height: 3rem;
-        width: 3rem; } }
+        height: 2rem;
+        width: 2rem;
+        flex-direction: column; } }
 
 /*# sourceMappingURL=style.css.map */
