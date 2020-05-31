@@ -6,3 +6,4 @@
 5.  Added Responsive Description Section 5/29/2020
 6.  Made changes to CSS file to address layout problems on small device viewports 5/30/2020
 7.  Made further changes to CSS file to address layout problems 5/31/2020
+8.  Added Responsive User Reviews section 5/31/2020
