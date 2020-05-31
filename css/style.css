@@ -442,7 +442,8 @@ li {
     margin-right: auto; }
     @media only screen and (max-width: 31.25em) {
       .recommend__count {
-        margin-bottom: 1rem; } }
+        margin-bottom: 1rem;
+        margin: 0 auto; } }
   .recommend__photo {
     box-sizing: content-box;
     height: 4rem;
